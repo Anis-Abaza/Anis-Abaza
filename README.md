@@ -3,17 +3,11 @@
 
 ### Stats ⚡
 
-![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiamoura&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
-
-### Repos 🔭
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sokube&repo=aws-eks&show_owner=true&theme=cobalt)](https://github.com/sokube/aws-eks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samiamoura&repo=gitops-training&show_owner=true&theme=synthwave)](https://github.com/samiamoura/gitops-training)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samiamoura&repo=devsecops-phonebook&show_owner=true&theme=gruvbox)](https://github.com/samiamoura/devsecops-phonebook)
+![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anis-Abaza&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
 
 ### Languages ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiamoura&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anis-Abaza&langs_count=10&theme=tokyonight)
 
 ---
 
@@ -32,6 +26,9 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
@@ -52,7 +49,16 @@
   </a> 
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+  </a>
+  <a href="https://www.hashicorp.com/products/vault" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="vault" width="40" height="40"/>
+  </a>
+  <a href="https://www.hashicorp.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Support:</h3>
