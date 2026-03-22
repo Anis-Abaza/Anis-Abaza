@@ -53,20 +53,7 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
   </a>
-  <a href="https://www.hashicorp.com/products/vault" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="vault" width="40" height="40"/>
-  </a>
   <a href="https://www.hashicorp.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/Anis-Abaza"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anis-Abaza" />
-  </a>
-  <a href="https://ko-fi.com/Anis-Abaza"> 
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Anis-Abaza" />
-  </a>
-</p><br><br>
